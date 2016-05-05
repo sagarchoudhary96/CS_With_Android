@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="score">Your score : 0 Computer score : 0</string>
+    <string name="Button1">Roll</string>
+    <string name="Button2">Hold</string>
+    <string name="Button3">Reset</string>
+    <string name="default_message">"Welcome!! Let's Start ....."</string>
+</resources>
